@@ -1,4 +1,4 @@
-Simple tcp server for telnet chat
+Simple tcp chat server
 
 # build
 ```shell
