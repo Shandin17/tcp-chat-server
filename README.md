@@ -4,8 +4,3 @@ Simple tcp chat server
 ```shell
 make build
 ```
-
-# run
-```shell
-make run
-```
